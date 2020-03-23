@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Verison initiale" << std::endl;
+    std::cout << "Verison 1" << std::endl;
     return 0;
 }
